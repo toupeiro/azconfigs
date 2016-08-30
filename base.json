@@ -26,7 +26,7 @@
   },
   "variables": {
     "imagePublisher": "OpenLogic",
-    "imageOffer": "CentOS",
+    "imageOffer": "CentOS-HPC",
     "imageVersion": "7.1",
     "subnetName": "subnet",
     "storageAccountType": "Standard_LRS",
